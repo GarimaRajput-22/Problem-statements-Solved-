@@ -1,7 +1,7 @@
 # EV Charging Analysis Dashboard (2024-2026)
 
 ## Overview
-An Excel dashboard that analyses electric vehicle charging activity across 8 Indian cities. It tracks revenue, energy consumption, variance analysis, charging sessions, customer ratings, vehicle usage and station types.
+An Excel dashboard that analyses electric vehicle charging activity across 8 Indian cities. It tracks revenue, energy consumption, charging sessions, customer ratings, vehicle usage and station types.
 
 ## KPIs
 | Total Revenue | ₹22,57,028.76 |
